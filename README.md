@@ -4,4 +4,11 @@
  # SISTEMA DE CONTROL AMBIENTAL MULTICAMARA
  </center>
 
-la imagen que se agrego quedo arriba y este es solo un pie de foto como si fuera figura
+<center>
+
+# Título Centrado
+
+Texto centrado en GitHub.
+
+</center>
+
