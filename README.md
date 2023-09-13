@@ -1,3 +1,3 @@
 # Prueba-Uno
  Esta es una prueba que inicie con una carepta vacia llamada "Pruena Uno"
-![imagen agregada](Shura.jpg)
+![imagen agregada](https://github.com/Rulodonte/Prueba-Uno/blob/main/Shura.webp)
