@@ -29,6 +29,4 @@ Enumera las características clave de tu proyecto o las funciones principales qu
 
 Proporciona instrucciones claras sobre cómo instalar y configurar tu proyecto. Incluye ejemplos de comandos si es necesario.
 
-```bash
-# Ejemplo de comandos de instalación
-npm install mi-proyecto
+
