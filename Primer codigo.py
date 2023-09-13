@@ -13,3 +13,7 @@ plt.ylabel('y')
 
 # Mostrar la gráfica en pantalla
 plt.show()
+
+
+# En esta parte agregamos la primera modificacion
+print("Primea modificacion")
