@@ -1,5 +1,6 @@
-# Prueba-Uno
- Esta es una prueba que inicie con una carepta vacia llamada "Pruena Uno"
+# SISTEMA DE CONTROL AMBIENTAL MULTICAMARA
+![Agregamos banner principal](Imagenes_README/Logo_COLPOS.png)
+
 
  
 
