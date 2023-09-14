@@ -32,7 +32,7 @@ Todos los dispositivos están instalados en la estructura.
 de control ambiental múltiple.
 
 ## Hardware
-### Estrucutra
+### Estructura
 ### Dispositivos de entrada
 ### Dispositivos de salida
 ### Dispositivos de control
