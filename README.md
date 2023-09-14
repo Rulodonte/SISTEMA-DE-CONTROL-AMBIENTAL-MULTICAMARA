@@ -17,7 +17,7 @@ dispositivos y el flujo de la aplicación de control.
 - [Licencia](#licencia)
 
 ## Descripción general del sistema
-Los componentes esenciales que integran el sistema son el hardware y el software de control. 
+![Agregamos diagrama de hardware](Imagenes_README/DiagramaHardware.png)
 
 
 
