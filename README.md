@@ -19,8 +19,7 @@ dispositivos y el flujo de la aplicación de control.
   - [Aplicación para Windows](#Aplicación-para-Windows)
   - [Código de control para Arduino](#Condigo-de-control-para-Arduiono)
 - [Lista de materiales](#Lista-de-materiales)
-- [Contribución](#contribución)
-- [Licencia](#licencia)
+
 
 ## Descripción general del sistema
 ![Agregamos diagrama de hardware](Imagenes_README/DiagramaHardware.png)
@@ -87,7 +86,7 @@ El mecanismo para el control de la temperatura se describe a continuación: El f
 
 ## Lista de materiales
 
-Proporciona instrucciones claras sobre cómo instalar y configurar tu proyecto. Incluye ejemplos de comandos si es necesario.
+
 
 | Nombre                | Descripción                                        | Unidades |
 |-----------------------|---------------------------------------------------|----------|
