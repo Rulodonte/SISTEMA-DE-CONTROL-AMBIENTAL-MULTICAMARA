@@ -11,6 +11,7 @@ dispositivos y el flujo de la aplicación de control.
 ## Contenido
 - [Descripción general del sistema](#Descripción-general-del-sistema)
 - [Hardware](#Hardware)
+  - [Estructura](#Estructura)
   - [Dispositivos de entrada](#Dispositivos-de-entrada)
   - [Dispositivos de salida](#Dispositivos-de-salida)
   - [Dispositivos de control](#Dispositivos-de-control)
@@ -31,6 +32,7 @@ Todos los dispositivos están instalados en la estructura.
 de control ambiental múltiple.
 
 ## Hardware
+### Estrucutra
 ### Dispositivos de entrada
 ### Dispositivos de salida
 ### Dispositivos de control
