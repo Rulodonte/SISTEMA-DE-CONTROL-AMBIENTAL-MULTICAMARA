@@ -9,16 +9,18 @@ control y salida. Además, se proporciona una visión general de cómo se diseñ
 dispositivos y el flujo de la aplicación de control.
 
 ## Contenido
-- [Introducción](#introducción)
+- [Descripción general del sistema](#Descripción general del sistema)
 - [Características](#características)
 - [Instalación](#instalación)
 - [Uso](#uso)
 - [Contribución](#contribución)
 - [Licencia](#licencia)
 
-## Introducción
+## Descripción general del sistema
+Los componentes esenciales que integran el sistema son el hardware y el software de control. 
 
-Explica de qué se trata tu proyecto en detalle. Puedes proporcionar contexto, antecedentes y cualquier otra información relevante.
+
+
 
 ## Características
 
