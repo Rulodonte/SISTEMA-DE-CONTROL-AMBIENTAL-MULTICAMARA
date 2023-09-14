@@ -75,7 +75,7 @@ El mecanismo para el control de la temperatura se describe a continuación: El f
 
 <img src="Imagenes_README/PICM.jpg" alt="Imagenes_README/PICM.jpg" width="400"/> <img src="Imagenes_README/PICS.jpg" alt="Imagenes_README/PICS.jpg" width="400"/>
 <br>
-Figura 8. 	Subsistema de control central. A: Microcontrolador maestro Arduino® Mega 2560 con el chip ATmega2560; B: Microcontrolador esclavo Arduino® Mega 2560 con el chip ATmega2560; C: Módulos “dimmer" de 8 canales; D: MiniPLC (LOGO!) de Siemens©.
+**Figura 8.** Subsistema de control central. A: Microcontrolador maestro Arduino® Mega 2560 con el chip ATmega2560; B: Microcontrolador esclavo Arduino® Mega 2560 con el chip ATmega2560; C: Módulos “dimmer" de 8 canales; D: MiniPLC (LOGO!) de Siemens©.
 
 
 
