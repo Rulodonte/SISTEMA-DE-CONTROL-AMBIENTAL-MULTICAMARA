@@ -32,7 +32,11 @@ Todos los dispositivos están instalados en la estructura.
 de control ambiental múltiple.
 
 ## Hardware
+
 ### Estructura
+![Agregamos diagrama de software](Imagenes_README/DiagramaSoftware.png)
+**Figura 3.** Subsistema estructural. A: Soporte (armazón y compartimientos para las cámaras de crecimiento); B: tapa.  
+
 ### Dispositivos de entrada
 ### Dispositivos de salida
 ### Dispositivos de control
