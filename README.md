@@ -83,9 +83,11 @@ El mecanismo para el control de la temperatura se describe a continuación: El f
 
 Proporciona instrucciones claras sobre cómo instalar y configurar tu proyecto. Incluye ejemplos de comandos si es necesario.
 
-| Encabezado 1 | Encabezado 2 | Encabezado 3 |
-| ------------ | ------------ | ------------ |
-| Celda 1,1     | Celda 1,2     | Celda 1,3     |
-| Celda 2,1     | Celda 2,2     | Celda 2,3     |
-| Celda 3,1     | Celda 3,2     | Celda 3,3     |
+| Nombre                | Descripción                                        | Unidades |
+|-----------------------|---------------------------------------------------|----------|
+| Triplay De Pino       | 1.22 m x 2.44 m de 16 mm de espesor              | 4 piezas |
+| Angulo de fierro      | 3.81 cm x 3.81 cm x 0.3 cm                       | 28 m     |
+| Bisagras para puerta  | 10.16 cm x 7.89 cm                                | 3 piezas |
+| FOAMULAR (aislante térmico) | 1.22 m x 2.44 m de 2.54 cm de espesor     | 3 piezas |
+
 
