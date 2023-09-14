@@ -11,9 +11,9 @@ dispositivos y el flujo de la aplicación de control.
 ## Contenido
 - [Descripción general del sistema](#Descripción-general-del-sistema)
 - [Hardware](#Hardware)
-  - [Dispositivos-de-entrada](#Dispositivos-de-entrada)
-  - [Dispositivos-de-salida](#Dispositivos-de-salida)
-  - [Dispositivos-de-control](#Dispositivos-de-control)
+  - [Dispositivos de entrada](#Dispositivos-de-entrada)
+  - [Dispositivos de salida](#Dispositivos-de-salida)
+  - [Dispositivos de control](#Dispositivos-de-control)
 - [Instalación](#instalación)
 - [Uso](#uso)
 - [Contribución](#contribución)
@@ -29,9 +29,8 @@ Todos los dispositivos están instalados en la estructura.
 **Figura 2.** Diagrama de flujo del software de control (aplicación de Windows® y PICs (maestro y esclavo) del sistema 
 de control ambiental múltiple.
 
-
-
-## Características
+## Hardware
+###Dispositivos de entrada
 
 Enumera las características clave de tu proyecto o las funciones principales que ofrece. Puedes incluir viñetas o una lista numerada.
 
