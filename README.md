@@ -34,7 +34,7 @@ de control ambiental múltiple.
 ## Hardware
 
 ### Estructura
-![Estructura](Imagenes_README/Estructura.png)
+![Estructura](Imagenes_README/Estructura.png)<br>
 **Figura 3.** Subsistema estructural. A: Soporte (armazón y compartimientos para las cámaras de crecimiento); B: tapa.  
 
 ### Dispositivos de entrada
