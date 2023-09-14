@@ -2,9 +2,10 @@
 <br><br><br><br><br><br>
 # SISTEMA DE CONTROL AMBIENTAL MULTICAMARA
 <br><br><br>
-
-Breve descripción o resumen del proyecto.
-## Tabla de Contenidos
+En este apartado se presentarán los anexos correspondientes al artículo titulado "Desarrollo y Evaluación de un Sistema de Control Ambiental Multicámara". 
+Los anexos contienen información detallada sobre los materiales utilizados en la construcción del sistema y los componentes de los subsistemas de entrada, 
+control y salida. Además, se proporciona una visión general de cómo se diseñó el sistema y se incluyen diagramas que ilustran la disposición de los 
+dispositivos y el flujo de la aplicación de control.## Tabla de Contenidos
 
 - [Introducción](#introducción)
 - [Características](#características)
