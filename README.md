@@ -35,6 +35,7 @@ de control ambiental múltiple.
 
 
 
+
 ## Instalación
 
 Proporciona instrucciones claras sobre cómo instalar y configurar tu proyecto. Incluye ejemplos de comandos si es necesario.
