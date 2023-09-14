@@ -15,7 +15,9 @@ dispositivos y el flujo de la aplicación de control.
   - [Dispositivos de entrada](#Dispositivos-de-entrada)
   - [Dispositivos de salida](#Dispositivos-de-salida)
   - [Dispositivos de control](#Dispositivos-de-control)
-- [Instalación](#instalación)
+- [Software](#Software)
+  - [Aplicación para Windows](#Aplicación-para-Windows)
+  - [Código de control para Arduino](#Condigo-de-control-para-Arduiono)
 - [Uso](#uso)
 - [Contribución](#contribución)
 - [Licencia](#licencia)
@@ -77,6 +79,10 @@ El mecanismo para el control de la temperatura se describe a continuación: El f
 <br>
 **Figura 8.** Subsistema de control central. A: Microcontrolador maestro Arduino® Mega 2560 con el chip ATmega2560; B: Microcontrolador esclavo Arduino® Mega 2560 con el chip ATmega2560; C: Módulos “dimmer" de 8 canales; D: MiniPLC (LOGO!) de Siemens©.
 
+## Software
+
+### Aplicación para Windows
+### Código de control para Arduino
 
 
 ## Instalación
