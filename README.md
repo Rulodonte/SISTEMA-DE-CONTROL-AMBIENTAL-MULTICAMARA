@@ -9,7 +9,7 @@ control y salida. Además, se proporciona una visión general de cómo se diseñ
 dispositivos y el flujo de la aplicación de control.
 
 ## Contenido
-- [Descripción general del sistema](#Descripción general del sistema)
+- [Descripción general del sistema](#Descripcióngeneraldelsistema)
 - [Características](#características)
 - [Instalación](#instalación)
 - [Uso](#uso)
