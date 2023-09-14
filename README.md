@@ -10,12 +10,14 @@ dispositivos y el flujo de la aplicación de control.
 
 ## Contenido
 - [Descripción general del sistema](#Descripción-general-del-sistema)
-- [Características](#características)
+- [Hardware](#Hardware)
+  - [Dispositivos-de-entrada](#Dispositivos-de-entrada)
+  - [Dispositivos-de-salida](#Dispositivos-de-salida)
+  - [Dispositivos-de-control](#Dispositivos-de-control)
 - [Instalación](#instalación)
 - [Uso](#uso)
 - [Contribución](#contribución)
 - [Licencia](#licencia)
-
 ## Descripción general del sistema
 ![Agregamos diagrama de hardware](Imagenes_README/DiagramaHardware.png)
 **Figura 1.** Diagrama de flujo del hardware. Interacción entre los dispositivos de entrada (subsistema de sensores), 
