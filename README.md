@@ -81,6 +81,11 @@ El mecanismo para el control de la temperatura se describe a continuación: El f
 ## Software
 
 ### Aplicación para Windows
+<br>
+La aplicación de Windows esta alojada en una computadora de escritorio (CPU) y cuenta con diversas funciones. Una de ellas es establecer una comunicación serial bidi-reccional con en el PIC maestro del subsistema de control central (Figura 2). Además, la aplicación tiene la capacidad de controlar las variables ambientales, como temperatura del aire y la humedad relativa. Para lograr esto, se diseñaron dos interfases para el usuario: Una ventana para monitorear el estado de las variables ambientales y otra para el programa de control de los ambientes. (Figura 10). 
+<br>
+El sistema de monitoreo y control ambiental se representa en la Figura 10, donde se muestran dos ventanas principales. En la ventana para monitorear el estado de las variables ambientales (Figura 10A), se presentan los valores actuales de humedad relativa y temperatura para cada cámara de crecimiento, junto con sus respectivos registros gráficos de las últimas 24 h. En la ventana para el programa de control de los ambientes (Figura 10B), se ofrece la opción de programar el patrón temperatura y nivel de HR para cada cámara de crecimiento. La programación de temperatura se puede realizar mediante dos opciones: mantener una temperatura constante o utilizar una curva experimental que consta de 6 puntos de ajuste.
+
 ### Código de control para Arduino
 
 
