@@ -1,7 +1,6 @@
 ![Agregamos banner principal](Imagenes_README/Logo_COLPOS.png)
 <br><br><br><br>
 # SISTEMA DE CONTROL AMBIENTAL MULTICAMARA
-<br>
 ## Resumen
 En este apartado se presentarán los anexos correspondientes al artículo titulado "Desarrollo y Evaluación de un Sistema de Control Ambiental Multicámara". 
 Los anexos contienen información detallada sobre los materiales utilizados en la construcción del sistema y los componentes de los subsistemas de entrada, 
