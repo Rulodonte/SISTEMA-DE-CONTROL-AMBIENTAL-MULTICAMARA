@@ -18,7 +18,10 @@ dispositivos y el flujo de la aplicación de control.
 
 ## Descripción general del sistema
 ![Agregamos diagrama de hardware](Imagenes_README/DiagramaHardware.png)
-
+**Figura 1.** Diagrama de flujo del hardware. Interacción entre los dispositivos de entrada (subsistema de sensores), 
+los dispositivos de salida (subsistema de control de la temperatura del aire, subsistema de control de la humedad 
+relativa y subsistema de control de la iluminación) y los dispositivos de control (subsistema de control central). 
+Todos los dispositivos están instalados en la estructura.
 
 
 
