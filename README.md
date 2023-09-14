@@ -57,8 +57,11 @@ El mecanismo para el control de la temperatura se describe a continuación: El f
 <br>
 **Figura 5.** Diagrama del flujo de aire para la regulación de la temperatura en las cámaras de crecimiento del subsistema de control de la temperatura del aire. A: Aire acondicionado (A/C); B: Tubería PVC para ingresar el aire a 16 °C a las cámaras de crecimiento; C: Extractores de aire; D: Módulo de calefacción; E: Orificio para la entrada de aire de las cámaras de crecimiento; F: Orificio de salida de aire de las cámaras de crecimiento; G: Red de tubería de PVC de 55 mm; H: Tubería de aire frio. Flechas azules indican flujo de aire frio. Flechas verdes indican el flujo de aire calentado por el módulo de calefacción. Flechas rojas indican el flujo de aire liberado al exterior del sistema. 
 
-**Subsistema de control de la humedad relativa.** Para el control de la humedad relativa, se instalaron humificadores de membrana ultrasónica de 16 mm en el interior de cada cámara de crecimiento (Figura 6C). Estos microaspersores generan una brisa de microgotas de agua para aumentar y regular la humedad relativa, ya que el aire tiende a desecarse al pasar a través del evaporador del A/C.  
+**Subsistema de control de la humedad relativa.** Para el control de la humedad relativa, se instalaron humificadores de membrana ultrasónica de 16 mm en el interior de cada cámara de crecimiento (Figura 6C). Estos microaspersores generan una brisa de microgotas de agua para aumentar y regular la humedad relativa, ya que el aire tiende a desecarse al pasar a través del evaporador del A/C. 
+
 ![MicroAspersores](Imagenes_README/MicroAspersores.png)
+<br>
+Figura 6. Representación gráfica de un corte en el eje vertical de una cámara de crecimiento para mostrar los elementos responsables de regular de la humedad relativa en el subsistema de control de la humedad relativa. A: Tubería de ingreso de aire frio a la cámara de crecimiento; B: Módulo de calefacción; C: Humificador ultrasónico; D) Lámpara LED; E: Orificio de salida de aire; F: Sensor DHT22 de humedad relativa y temperatura; G: Tubería para el flujo de agua fría, encargada de absorber el calor emitido por la lámpara LED.
 
 
 
