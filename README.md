@@ -18,6 +18,7 @@ dispositivos y el flujo de la aplicación de control.
 - [Uso](#uso)
 - [Contribución](#contribución)
 - [Licencia](#licencia)
+
 ## Descripción general del sistema
 ![Agregamos diagrama de hardware](Imagenes_README/DiagramaHardware.png)
 **Figura 1.** Diagrama de flujo del hardware. Interacción entre los dispositivos de entrada (subsistema de sensores), 
@@ -30,7 +31,7 @@ Todos los dispositivos están instalados en la estructura.
 de control ambiental múltiple.
 
 ## Hardware
-- Dispositivos de entrada
+- [Dispositivos de entrada](#Dispositivos-de-entrada)
 
 
 
