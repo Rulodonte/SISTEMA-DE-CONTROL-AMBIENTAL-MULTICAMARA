@@ -61,7 +61,7 @@ El mecanismo para el control de la temperatura se describe a continuación: El f
 
 ![MicroAspersores](Imagenes_README/MicroAspersores.png)
 <br>
-Figura 6. Representación gráfica de un corte en el eje vertical de una cámara de crecimiento para mostrar los elementos responsables de regular de la humedad relativa en el subsistema de control de la humedad relativa. A: Tubería de ingreso de aire frio a la cámara de crecimiento; B: Módulo de calefacción; C: Humificador ultrasónico; D) Lámpara LED; E: Orificio de salida de aire; F: Sensor DHT22 de humedad relativa y temperatura; G: Tubería para el flujo de agua fría, encargada de absorber el calor emitido por la lámpara LED.
+**Figura 6.** Representación gráfica de un corte en el eje vertical de una cámara de crecimiento para mostrar los elementos responsables de regular de la humedad relativa en el subsistema de control de la humedad relativa. A: Tubería de ingreso de aire frio a la cámara de crecimiento; B: Módulo de calefacción; C: Humificador ultrasónico; D) Lámpara LED; E: Orificio de salida de aire; F: Sensor DHT22 de humedad relativa y temperatura; G: Tubería para el flujo de agua fría, encargada de absorber el calor emitido por la lámpara LED.
 
 
 
