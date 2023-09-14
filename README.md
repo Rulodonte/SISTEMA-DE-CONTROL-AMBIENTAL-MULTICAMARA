@@ -6,7 +6,7 @@ En este apartado se presentarán los anexos correspondientes al artículo titula
 Los anexos contienen información detallada sobre los materiales utilizados en la construcción del sistema y los componentes de los subsistemas de entrada, 
 control y salida. Además, se proporciona una visión general de cómo se diseñó el sistema y se incluyen diagramas que ilustran la disposición de los 
 dispositivos y el flujo de la aplicación de control.## Tabla de Contenidos
-
+## Contenido
 - [Introducción](#introducción)
 - [Características](#características)
 - [Instalación](#instalación)
