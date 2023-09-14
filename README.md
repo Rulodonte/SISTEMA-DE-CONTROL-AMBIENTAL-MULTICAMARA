@@ -23,6 +23,10 @@ los dispositivos de salida (subsistema de control de la temperatura del aire, su
 relativa y subsistema de control de la iluminación) y los dispositivos de control (subsistema de control central). 
 Todos los dispositivos están instalados en la estructura.
 
+![Agregamos diagrama de software](Imagenes_README/DiagramaSoftware.png)
+**Figura 2.** Diagrama de flujo del software de control (aplicación de Windows® y PICs (maestro y esclavo) del sistema 
+de control ambiental múltiple.
+
 
 
 ## Características
