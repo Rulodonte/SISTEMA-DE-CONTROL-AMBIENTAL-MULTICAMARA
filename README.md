@@ -30,13 +30,9 @@ Todos los dispositivos están instalados en la estructura.
 de control ambiental múltiple.
 
 ## Hardware
-###Dispositivos de entrada
+- Dispositivos de entrada
 
-Enumera las características clave de tu proyecto o las funciones principales que ofrece. Puedes incluir viñetas o una lista numerada.
 
-- Característica 1
-- Característica 2
-- Característica 3
 
 ## Instalación
 
