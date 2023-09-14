@@ -31,7 +31,7 @@ Todos los dispositivos están instalados en la estructura.
 de control ambiental múltiple.
 
 ## Hardware
-- [Dispositivos de entrada](#Dispositivos-de-entrada)
+##[Dispositivos de entrada](#Dispositivos-de-entrada)
 
 
 
