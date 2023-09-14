@@ -71,8 +71,6 @@ El mecanismo para el control de la temperatura se describe a continuación: El f
 **Figura 7.** Subsistema de control de la iluminación. A: Tubería de enfriamiento de los LEDS; B: Arreglo de bombas para alternar el bombeo de agua; C: Chips led adheridos a la tubería de cobre; D: Tinaco.
 
 ### Dispositivos de control
-<br>
-
 **Subsistema de control central.** La sección de control central cuenta con dos PIC: un maestro y un esclavo, ambos basados en el microcontrolador Arduino® Mega 2560 con el chip ATmega2560. Estos PIC permiten el control de los dispositivos de entrada y salida. El PIC maestro (Figura 8A) se encarga de la comunicación serial bidireccional con la computadora (CPU), recibiendo los valores de HR (%) y temperatura del aire (°C) del sensor DHT22 presente en cada cámara de crecimiento. Además, este PIC está conectado a dos módulos de relevadores mecánicos, los cuales permiten controlar el encendido de los humidificadores (Figura 9). Por otro lado, el PIC esclavo (Figura 8B) está conectado dos módulos “dimmer" de 8 canales (Figura 8C). Estos módulos permiten regular la intensidad del voltaje de corriente alterna que alimenta los módulos de calefacción. El encendido tanto del sistema de iluminación como del arreglo de bombeo alternado para el enfriamiento de los leds es gestionado por un MiniPLC (LOGO!) de Siemens© (Figura 8C).
 
 
