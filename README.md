@@ -32,6 +32,8 @@ de control ambiental múltiple.
 
 ## Hardware
 ### Dispositivos de entrada
+### Dispositivos de salida
+### Dispositivos de control
 
 
 
