@@ -84,8 +84,11 @@ El mecanismo para el control de la temperatura se describe a continuación: El f
 La aplicación de Windows esta alojada en una computadora de escritorio (CPU) y cuenta con diversas funciones. Una de ellas es establecer una comunicación serial bidi-reccional con en el PIC maestro del subsistema de control central (Figura 2). Además, la aplicación tiene la capacidad de controlar las variables ambientales, como temperatura del aire y la humedad relativa. Para lograr esto, se diseñaron dos interfases para el usuario: Una ventana para monitorear el estado de las variables ambientales y otra para el programa de control de los ambientes. (Figura 10). 
 <br><br>
 ![Monitor](Imagenes_README/Monitor.jpg)
+<br>
 El sistema de monitoreo y control ambiental se representa en la Figura 10, donde se muestran dos ventanas principales. En la ventana para monitorear el estado de las variables ambientales (Figura 10A), se presentan los valores actuales de humedad relativa y temperatura para cada cámara de crecimiento, junto con sus respectivos registros gráficos de las últimas 24 h. En la ventana para el programa de control de los ambientes (Figura 10B), se ofrece la opción de programar el patrón temperatura y nivel de HR para cada cámara de crecimiento. La programación de temperatura se puede realizar mediante dos opciones: mantener una temperatura constante o utilizar una curva experimental que consta de 6 puntos de ajuste.
-
+<br><br>
+![Control](Imagenes_README/Control.jpg)
+<br>
 ### Código de control para Arduino
 El algoritmo del PIC maestro en Arduino se encarga de la comunicación serial bidireccional con la aplicación de Windows y, además, establece la comunicación con el PIC esclavo mediante el protocolo I2C (I-cuadrado C). Su funcionalidad es recibir los valores de modulación por ancho de pulsos (PWM, 0-255) y el estado (encendido/apagado) de los humificadores ultrasónicos de cada una de las quince cámaras, los cuales son establecidos por el usuario en la aplicación de Windows. A su vez, proporciona a la aplicación los valores de temperatura (°C) y humedad relativa (%) que son medidos por los sensores DHT22, los cuales están instalados en cada una de las cámaras. Además, este algoritmo es responsable de controlar el encendido y apagado de los humificadores ultrasónicos del subsistema de control de la humedad relativa. Esto se logra mediante la gestión de dos módulos de relevadores específicos para Arduino®, los cuales actúan como interruptores de los humificadores. 
 <br><br>
