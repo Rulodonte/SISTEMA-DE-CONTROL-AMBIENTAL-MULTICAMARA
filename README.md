@@ -9,26 +9,36 @@ control y salida. Además, se proporciona una visión general de cómo se diseñ
 dispositivos y el flujo de la aplicación de control.
 
 ## Contenido
-- [Descripción general del sistema](#Descripción general del sistema)
-- [Características](#características)
+- [Descripción general del sistema](#Descripción-general-del-sistema)
+- [Hardware](#Hardware)
+  - [Estructura](#Estructura)
+  - [Dispositivos de entrada](#Dispositivos-de-entrada)
+  - [Dispositivos de salida](#Dispositivos-de-salida)
+  - [Dispositivos de control](#Dispositivos-de-control)
 - [Instalación](#instalación)
 - [Uso](#uso)
 - [Contribución](#contribución)
 - [Licencia](#licencia)
 
 ## Descripción general del sistema
-Los componentes esenciales que integran el sistema son el hardware y el software de control. 
+![Agregamos diagrama de hardware](Imagenes_README/DiagramaHardware.png)
+**Figura 1.** Diagrama de flujo del hardware. Interacción entre los dispositivos de entrada (subsistema de sensores), 
+los dispositivos de salida (subsistema de control de la temperatura del aire, subsistema de control de la humedad 
+relativa y subsistema de control de la iluminación) y los dispositivos de control (subsistema de control central). 
+Todos los dispositivos están instalados en la estructura.
+
+![Agregamos diagrama de software](Imagenes_README/DiagramaSoftware.png)
+**Figura 2.** Diagrama de flujo del software de control (aplicación de Windows® y PICs (maestro y esclavo) del sistema 
+de control ambiental múltiple.
+
+## Hardware
+### Estructura
+### Dispositivos de entrada
+### Dispositivos de salida
+### Dispositivos de control
 
 
 
-
-## Características
-
-Enumera las características clave de tu proyecto o las funciones principales que ofrece. Puedes incluir viñetas o una lista numerada.
-
-- Característica 1
-- Característica 2
-- Característica 3
 
 ## Instalación
 
