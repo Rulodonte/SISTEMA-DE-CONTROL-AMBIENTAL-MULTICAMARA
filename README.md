@@ -98,7 +98,7 @@ El algoritmo del PIC esclavo recibe los valores PWM del PIC maestro. Cada valor 
 
 ## Lista de materiales
 
-
+Cuadro 1. Materiales empleados en la construcción de la estructura.
 
 | Nombre                | Descripción                                        | Unidades |
 |-----------------------|---------------------------------------------------|----------|
@@ -106,5 +106,75 @@ El algoritmo del PIC esclavo recibe los valores PWM del PIC maestro. Cada valor 
 | Angulo de fierro      | 3.81 cm x 3.81 cm x 0.3 cm                       | 28 m     |
 | Bisagras para puerta  | 10.16 cm x 7.89 cm                                | 3 piezas |
 | FOAMULAR (aislante térmico) | 1.22 m x 2.44 m de 2.54 cm de espesor     | 3 piezas |
+<br>
+
+Cuadro 2. Materiales empleados en la construcción de los dispositivos de entrada.
+| Subsistema           | Nombre                               | Descripción                   | Unidades |
+|----------------------|-------------------------------------|-------------------------------|----------|
+| subsistema de sensores | Sensor de humedad y temperatura    | DHT22                         | 15 piezas|
+<br>
+
+Cuadro 3. Materiales empleados en la construcción de los dispositivos de control.
+| Subsistema                       | Nombre                             | Descripción                  | Unidades |
+|----------------------------------|------------------------------------|------------------------------|----------|
+| Subsistema de control central    | Mini PLC                           | Siemens (LOGO!)              | 1 pieza   |
+|                                  | Arduino                            | Arduino Mega 2560            | 2 piezas  |
+|                                  | Fuente conmutada de alimentación  | 5v 10a 50w 110/220 V          | 1 pieza   |
+|                                  | PC de escritorio                   | Dell Inspiron                 | 1 pieza   |
+|                                  | Módulo sensor                      | Shield expansion V2.0         | 1 pieza   |
+<br>
+
+Cuadro 4. Materiales empleados en la construcción de los dispositivos de salida.
+| Subsistema                        | Nombre                                    | Descripción                                        | Unidades |
+|-----------------------------------|-------------------------------------------|----------------------------------------------------|----------|
+| Subsistema de iluminación         | Tubo de cobre                             | 5 cm                                               | 10 m     |
+|                                   | Reducciones tipo campana                  | 5 cm a 2.54 cm                                     | 2 piezas |
+|                                   | Codos de 90°                              | 5 cm                                               | 2 piezas |
+|                                   | Tee                                       | 5 cm                                               | 4 piezas |
+|                                   | Filtro de aire                            | 2.54 cm                                           | 1 pieza  |
+|                                   | Válvula check                             | 2.54 cm                                           | 1 pieza  |
+|                                   | Llave de paso                             | 2.54 cm                                           | 2 piezas |
+|                                   | Tuerca unión                              | 2.54 cm                                           | 2 piezas |
+|                                   | Tubo de PVC                               | 2.54 cm                                           | 4 m      |
+|                                   | Tuerca unión                              | 2.38 cm                                           | 4 piezas |
+|                                   | Llave de paso                             | 2.38 cm                                           | 2 piezas |
+|                                   | Bombas de agua                            | 1/2 HP                                            | 2 piezas |
+|                                   | Led full spectro cultivo indoor           | 50 w - 110 v                                      | 15 piezas|
+|                                   | Relevadores mecánicos                     | 10 A                                              | 2 piezas |
+|                                   | Interruptor electromagnético              | 11 A                                              | 2 piezas |
+| Subsistema de control de la temperatura del aire | Aire acondicionado             | LG 12000 BTUs                                      | 1 pieza  |
+|                                   | Extractor de aire                         | iPower Ventilador (195 CFM de 10.16 mm)            | 3 piezas |
+|                                   | Reducción sanitaria                       | 10.16 cm a 5.5 cm                                 | 3 piezas |
+|                                   | Tee hidráulica                            | 55 mm                                             | 18 piezas|
+|                                   | Codos de 90°                              | 55 mm                                             | 3 piezas |
+|                                   | Tee sanitaria                             | 55 mm                                             | 15 piezas|
+|                                   | Tubo PVC sanitario                        | 10.16 mm                                          | 1.5 m   |
+|                                   | Tee PVC sanitario                         | 10.16 mm                                          | 3 piezas |
+|                                   | Cople PVC sanitario                       | 10.16 mm                                          | 1 pieza  |
+|                                   | Codo 90° PVC sanitario                   | 10.16 mm                                          | 1 pieza  |
+|                                   | Tubo PVC sanitario                        | 55 mm                                             | 17 m     |
+|                                   | Alambre de nicromo                       | Diámetro de 0.16mm (34 AWG)                      | 50 m     |
+|                                   | Tubo Aislante De Cerámica Liso            | 31mm (N°10)                                       | 5 piezas |
+|                                   | Módulo dimmer de luz control potencia     | Ac 8 Canales, Arduino                            | 2 piezas |
+|                                   | Dimmer regulador voltaje control velocidad| 110~220vac 4000w                                  | 1 pieza  |
+|                                   | Voltímetro y amperímetro digital          | 0-100 V y 0-10 A                                 | 1 pieza  |
+| Subsistema de control de la humedad relativa  | Membrana humidificadora ultrasónica | D16mm                                       | 15 piezas|
+|                                                | Humidificador driver board           | D16mm                                       | 15 piezas|
+|                                                | Tubo CPVC                            | 19 mm                                      | 10 m     |
+|                                                | Codo 90° CPVC                        | 19 mm                                      | 5 piezas |
+|                                                | Tee CPVC                             | 19 mm                                      | 15 piezas|
+|                                                | Bomba sumergible                     | 200 L/h                                   | 1 pieza  |
+|                                                | Módulo de relevadores                | Relay 8 Canales 5v (Arduino)              | 2 piezas |
+|                                                | Stent humidificador ultrasónico       | 12 cm                                      | 15 piezas|
+|                                                | Recipiente contenedor de agua        | 2 L                                       | 1 pieza  |
+|                                                | Llave de paso CPVC                   | 19 mm                                      | 2 piezas |
+|                                                | Sensor Flotador Nivel De Agua Switch | 125-220 V y 0.5 A                         | 
+
+
+
+
+
+
+
 
 
