@@ -19,6 +19,7 @@ dispositivos y el flujo de la aplicación de control.
   - [Aplicación para Windows](#Aplicación-para-Windows)
   - [Código de control para Arduino](#Condigo-de-control-para-Arduiono)
 - [Lista de materiales](#Lista-de-materiales)
+- [Anexo](#Anexo)
 
 
 ## Descripción general del sistema
@@ -170,6 +171,10 @@ Cuadro 4. Materiales empleados en la construcción de los dispositivos de salida
 |                                                | Llave de paso CPVC                   | 19 mm                                      | 2 piezas |
 |                                                | Sensor Flotador Nivel De Agua Switch | 125-220 V y 0.5 A                         | 
 
+
+![Anexo](Imagenes_README/Camara ON.jpg)
+![Anexo](Imagenes_README/CamaraSola.jpg)
+![Anexo](Imagenes_README/Camara ON.jpg)
 
 
 
