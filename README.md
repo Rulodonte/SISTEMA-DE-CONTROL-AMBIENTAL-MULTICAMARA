@@ -174,6 +174,7 @@ Cuadro 4. Materiales empleados en la construcción de los dispositivos de salida
 
 ![Anexo](Imagenes_README/CamaraON.jpg)
 ![Anexo](Imagenes_README/Refrigeracion.jpg)
+![Anexo](Imagenes_README/Lateral.jpg)
 
 
 
