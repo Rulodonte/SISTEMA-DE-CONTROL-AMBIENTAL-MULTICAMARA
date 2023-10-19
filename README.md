@@ -172,7 +172,7 @@ Cuadro 4. Materiales empleados en la construcción de los dispositivos de salida
 |                                                | Sensor Flotador Nivel De Agua Switch | 125-220 V y 0.5 A                         | 
 
 
-![Anexo](Imagenes_README/Camara ON.jpg)
+![Anexo](Imagenes_README/CamaraON.jpg)
 ![Anexo](Imagenes_README/CamaraSola.jpg)
 ![Anexo](Imagenes_README/Camara ON.jpg)
 
