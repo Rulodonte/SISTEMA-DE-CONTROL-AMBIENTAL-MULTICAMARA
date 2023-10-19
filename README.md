@@ -173,8 +173,9 @@ Cuadro 4. Materiales empleados en la construcción de los dispositivos de salida
 
 
 ![Anexo](Imagenes_README/CamaraON.jpg)
-![Anexo](Imagenes_README/CamaraSola.jpg)
-![Anexo](Imagenes_README/Camara ON.jpg)
+![Anexo](Imagenes_README/trasera.jpg)
+
+
 
 
 
