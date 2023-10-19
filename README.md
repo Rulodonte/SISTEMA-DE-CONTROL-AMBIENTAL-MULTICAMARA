@@ -171,10 +171,11 @@ Cuadro 4. Materiales empleados en la construcción de los dispositivos de salida
 |                                                | Llave de paso CPVC                   | 19 mm                                      | 2 piezas |
 |                                                | Sensor Flotador Nivel De Agua Switch | 125-220 V y 0.5 A                         | 
 
-
+## Anexo
 ![Anexo](Imagenes_README/CamaraON.jpg)
 ![Anexo](Imagenes_README/Refrigeracion.jpg)
 ![Anexo](Imagenes_README/Lateral.jpg)
+![Anexo](Imagenes_README/Controles.jpg)
 
 
 
